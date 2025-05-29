@@ -241,25 +241,16 @@ class FinanceAssistantUI:
         if market_data.get("result"):
             for symbol, data in market_data["result"].items():
                 if isinstance(data, dict):
-                    change = float(data.get("change_percent", 0))
-                    if abs(change) > 5:  # Significant movement
-                        risk_factors.append(f"High volatility in {symbol}: {change:+.1f}%")
-        
-        # Context-based risk factors
-        if "asia" in query_context.get("regions", []):
-            risk_factors.extend([
-                "Geopolitical tensions in Asia-Pacific region",
-                "Currency fluctuation risk (KRW, TWD vs USD)",
-                "Regulatory changes in semiconductor industry"
-            ])
-        
-        if "tech" in query_context.get("sectors", []):
-            risk_factors.extend([
-                "Interest rate sensitivity in growth stocks",
-                "Supply chain disruptions in semiconductor sector"
-            ])
-        
-        return risk_factors
+                    change_percent = data.get("change_percent", 0)
+                    # Safe conversion to float, handling None and non-numeric values
+                    try:
+                        if change_percent is not None:
+                            change = float(change_percent)
+                            if abs(change) > 5:  # Significant movement
+                                risk_factors.append(f"High volatility in {symbol}: {change:+.1f}%")
+                    except (ValueError, TypeError):
+                        # Skip invalid values and continue
+                        continue
 
     async def call_api_endpoint(self, endpoint: str, payload: Dict[str, Any]) -> Dict[str, Any]:
         """Make async call to FastAPI endpoint"""
