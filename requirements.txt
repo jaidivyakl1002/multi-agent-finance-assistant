@@ -1,0 +1,66 @@
+# Core packages - let pip resolve versions automatically
+langchain
+langchain-core
+langchain-community
+langchain-openai
+crewai
+crewai-tools
+
+# Common missing dependencies
+protobuf
+python-dateutil
+curl-cffi
+frozendict
+multitasking
+pytz
+six
+packaging
+setuptools
+wheel
+typing-extensions
+pydantic
+jsonschema
+attrs
+cattrs
+
+# Web framework
+fastapi
+uvicorn
+
+# UI
+streamlit
+
+# Data processing
+pandas
+numpy
+
+# Vector database
+faiss-cpu
+pinecone
+
+# HTTP requests
+requests
+httpx
+urllib3
+certifi
+charset-normalizer
+idna
+
+# Environment
+python-dotenv
+
+# Caching
+redis
+
+# Audio processing
+speechrecognition
+pyttsx3
+pydub
+gtts
+pygame
+aiofiles
+
+# Development
+pytest
+black
+flake8

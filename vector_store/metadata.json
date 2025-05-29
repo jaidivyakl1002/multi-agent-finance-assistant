@@ -1,0 +1,2331 @@
+{
+  "documents": {
+    "07cd27514adfe5f51619b4be628c6443": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T14:16:02.401972",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "7cf2f0194f1b5de118df795ec12d57a1": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T14:16:02.401972",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "d300a08055ef8c3e4353e0c6a960ce40": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T14:16:02.401972",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "373c45d4970620a06188211c18e20313": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T14:16:02.401972"
+      },
+      "id": null
+    },
+    "1b2ab9b5a49ddcc1c2b9ce73229acf2d": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:02:19.924848",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "daf548315716b38a4e9018be60acc21e": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:02:19.924848",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "f1746738b7819b0d128c2631c2170454": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:02:19.924848",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "6c5f3a32f92105d3d2f761ad49f4c9f3": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:02:19.924848"
+      },
+      "id": null
+    },
+    "46214cec6b2f741095c10447f2fb7d21": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:07:46.353986",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "9035aa41e7c41cdc3031338158f7e55e": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:07:46.354981",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "af167de1543008a8326935a4edad2185": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:07:46.354981",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "43c70b95a6cb9cc8f111c92f20f5d29e": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:07:46.354981"
+      },
+      "id": null
+    },
+    "8367a8715b2b76a2652d7f9cc997333b": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:19:12.395844",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "238951cf8ee47794a458855d90e379dd": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:19:12.395844",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "432b16af9cc3fedd009e48ebc7a7f61e": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:19:12.395844",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "06385c9ad1db9c418de58bd6dd74f6e8": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:19:12.395844"
+      },
+      "id": null
+    },
+    "3af048dd0960c926245b6ecece377012": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:19:54.755739",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "17f9834079b686b299c5cbab150ef430": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:19:54.755739",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "b782403f7b91f563a905c942d2d9e0be": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:19:54.755739",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "9b20f5393ba4ea6d4a2c87f1f8418744": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:19:54.755739"
+      },
+      "id": null
+    },
+    "45aa410e6d1e906a82fed333bdf077ee": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:21:02.898716",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "ac1943dce63161c5246e6317a9c40925": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:21:02.898716",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "6ccc786635bc6c13128916bd8c9d1e6c": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:21:02.898716",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "1462ba1dc940d544393083e50052780b": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T15:21:02.898716"
+      },
+      "id": null
+    },
+    "bd971b455caf8bebd601a8320166f39a": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:35:23.573250",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "e841840d8d911b6e3eee823d0494477f": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:35:23.573250",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "56c89ccb7663ce0a4bf7a5185ca0eb12": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:35:23.574246",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "a1f214a4ebf1db3c8fe8494e2aef195c": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:35:23.574246"
+      },
+      "id": null
+    },
+    "70803a8de0173afbfb108b2f397ca4be": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:36:24.830157",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "6fe89130ce922b16c60454f649557c13": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:36:24.830157",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "4307f588fa7b618440e742acc210d365": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:36:24.830157",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "59b104f4d2898acd0bc7bb55f41a6000": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:36:24.830157"
+      },
+      "id": null
+    },
+    "fd11c326286bda20cc2a7c35c680016b": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:41:39.848880",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "a52b87af5887c0e7f738b7ae98a1f315": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:41:39.848880",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "7cbab6abdc9bb1489fa40750eec79886": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:41:39.848880",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "a559ac54640c49d9ca2ac3422ea8e0cb": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:41:39.848880"
+      },
+      "id": null
+    },
+    "7fe7ac93be154aff007edafa9a724175": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:42:24.020673",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "72d055f4510dcc8a44b5db19f1bd6086": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:42:24.020673",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "c78af630426ed2fa770a3092fa5bce0e": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:42:24.020673",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "f2eae18559bda40019e3d62fdf605460": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:42:24.020673"
+      },
+      "id": null
+    },
+    "547503b9b1a885e0976cc87e9274e7d5": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:52:07.724754",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "3db035415d6f0182719a951de957dfa7": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:52:07.724754",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "aa0fc64a0f7ec4217fdb5ab485128b71": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:52:07.724754",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "86d114cff3b185f08a34bf1eaac23553": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:52:07.724754"
+      },
+      "id": null
+    },
+    "8f89f0fc6910d10c04dd04d1bb6b7602": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:52:46.959592",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "2009d331d0845fbf095aa5c49cbe3967": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:52:46.959592",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "d5db0d0054dfe0950e93c558417a032a": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:52:46.959592",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "ec684e76deb4f0dc7826b4f94f7da770": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:52:46.959592"
+      },
+      "id": null
+    },
+    "98121626da3186be476d02d486abd9c5": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:53:25.731890",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "f8c80d95bc927e1fd0283942e60689f3": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:53:25.731890",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "43b5c89efce05d47efcf495923e64d6a": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:53:25.731890",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "def27489359e5ff6daa2e23614069b60": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:53:25.731890"
+      },
+      "id": null
+    },
+    "2930cf3916795331115b19cd87bbfdc1": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:56:10.635203",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "7c1aa08e34a59e8095ae98f212ace261": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:56:10.635203",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "d763c404f3c370f635bf70b2bac3c761": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:56:10.635203",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "15ce64f2d58d435848fa1a33a1fab911": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:56:10.635203"
+      },
+      "id": null
+    },
+    "eff8c000d86e7100193f86b237f17dfe": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:56:55.308980",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "c7e606f3e904900f46650b16ceab0e48": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:56:55.308980",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "d51d4298d4f26e5ccd8a4643845ec8ad": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:56:55.308980",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "7b93eb8bc02da8c99797d41576cea780": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:56:55.308980"
+      },
+      "id": null
+    },
+    "afddef3ff3e016dfe5990e2406dec935": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:57:33.623889",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "7ece0267eb863187c1224dd8772cde16": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:57:33.623889",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "4a4b018f72e71c68ebc19aada1a6fcb1": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:57:33.623889",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "114e8098f77103d7c1b7f2a261427c4c": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:57:33.623889"
+      },
+      "id": null
+    },
+    "796be172fcc4f5a5499728f37d17cb57": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:58:49.104294",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "26e6c036412204883f7cf23f00501952": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:58:49.104294",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "b3a42be28f55a44d162c005c214b19bc": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:58:49.104294",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "a240b910999e5cc8fa6cfabb00e951e6": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:58:49.104294"
+      },
+      "id": null
+    },
+    "6edc4a4dc65ae9f929c18ece5e3f5937": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:59:27.679351",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "2741c3abfb9f64ca0667543033dfbe67": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:59:27.679351",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "113c45c5f33ec273b6cef657cc47bb5c": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:59:27.679351",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "e9fa97ffb3da979d4e567d0166fa415a": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T20:59:27.679351"
+      },
+      "id": null
+    },
+    "963f87609cbda281c55488befa51ba83": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:00:05.991620",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "964ff844f7ca361295578b014d2d6aca": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:00:05.991620",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "2b3ac1dddfba8b54d2421ab4f41082ec": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:00:05.991620",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "25aca8162f5484b0a4c35686490b6523": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:00:05.991620"
+      },
+      "id": null
+    },
+    "8bd6b7804c79bbe733409f611b14c446": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:04:03.195759",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "e23cf11494e63211f26f5317987c2b1c": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:04:03.195759",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "60b09fafff9773ac717ad9a3ea32ef21": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:04:03.195759",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "f91ce7f58e04f08b5801c3fc04c97e13": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:04:03.195759"
+      },
+      "id": null
+    },
+    "2265f635dc0b8d92748cf4e18f73c17c": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:10:12.228101",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "ba2b711a3a7f4586d5df1782246221ee": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:10:12.228101",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "cd5f37115ebe6800689a1ee3e6f14cd4": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:10:12.228101",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "c1046334bfe5488d14281e66cec69754": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:10:12.228101"
+      },
+      "id": null
+    },
+    "98b2ae546fca4d9935138d4c9ef8541e": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:15:22.744694",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "ddd803b81fbf8efe297e9f04d22666f5": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:15:22.744694",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "6a978b2960e1623f8f70f0f940dfd7e0": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:15:22.744694",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "6e7e041ed06a4353db53c150998be4c2": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:15:22.744694"
+      },
+      "id": null
+    },
+    "d4fd30f9a5fba08a3e20bb157134e9dd": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:20:35.293516",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "491788ef5de6ea498869c9d20fe3a848": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:20:35.293516",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "5581dc2ab6d0c5ab79302ea68ee05e2b": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:20:35.293516",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "d6e866127f2d3295e903a2bb20b2cc73": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:20:35.293516"
+      },
+      "id": null
+    },
+    "0276e6a561da5a96bc93f10d5e385833": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:42:46.541539",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "96df98ee3c818e44c43293769e13a21c": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:42:46.541539",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "b2c6687bc77867082a7fcbe02d8075a9": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:42:46.541539",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "377edcb0bf64b60ad9fcad8e722aca47": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:42:46.541539"
+      },
+      "id": null
+    },
+    "d2b3efaac6f1102d4a046559b6b57958": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:43:31.425808",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "3ec34999bb452a9bb4b83b64a51a09c7": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:43:31.425808",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "1b1d1ce2fb13cedbb826e62d0a960cc4": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:43:31.425808",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "85a23257a2e153c8fe849015ef28d9f5": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:43:31.425808"
+      },
+      "id": null
+    },
+    "fb031e4cd06f694d011ac2fd1b0c43a5": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:44:11.600044",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "206e15edb60ce4aeb725244d5620f99d": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:44:11.600044",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "a809be3e5d995b4c206be6d193ace5ac": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:44:11.600044",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "83131e38b963ae3f1d7dfa2999ebd9d2": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:44:11.600044"
+      },
+      "id": null
+    },
+    "0f098276d246c3e9222e686401e5ccc8": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:44:50.364548",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "bcb4359a09234bb32a8c54544ccfa6fa": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:44:50.364548",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "0dd9d8753fecc499923a4c9f79b2ad30": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:44:50.364548",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "0fd4867158bf7b6b3fe46056ec6ed082": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-27T21:44:50.364548"
+      },
+      "id": null
+    },
+    "a443b9492dcb7ba42c6ce673b96263ad": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:45:06.939459",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "527a4d70c4ac503492725a1b14c8b3e9": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:45:06.940877",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "4ba1cc95bc3bef2b66bf60309e3eaf69": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:45:06.940877",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "11669df78070d9c2116c3ae9ecea9a46": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:45:06.940877"
+      },
+      "id": null
+    },
+    "1e6d66c7dd1cd875064e6e3bcf63a9c8": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:49:13.246802",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "d4a9ff02f18e3682185efab8ee9bd794": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:49:13.246802",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "5bab260fbcdc81e8b28bb42f7d4cd99d": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:49:13.246802",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "b5a4257935fd88686a8cc202f4923827": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:49:13.246802"
+      },
+      "id": null
+    },
+    "b56a33d38e81c608150bbd2f9a98eda0": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:49:38.697392",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "028ceda6c691ee90d06581b4d1f31479": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:49:38.697392",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "490e1332e99b9c47338d42e13f314586": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:49:38.697392",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "34654dea0a402dbf3172419f8c1ecbc8": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T02:49:38.697392"
+      },
+      "id": null
+    },
+    "795669371dec201c2e456d2bdd1ae4e6": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:04:53.060374",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "c217a2cee085651311bf1b3fba67270d": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:04:53.060374",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "29e7bdd0c4687fc9a14ceec43acd891c": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:04:53.060374",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "960a491a81c39fb73ada70642648656c": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:04:53.060374"
+      },
+      "id": null
+    },
+    "9e1833aee4159fcd2e3fa2f3e5f75172": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:05:17.826073",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "0ab1dc548d37cfb144ec294290e13f98": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:05:17.826073",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "df0eae83859c9ebe52f4b7aa8acb0e45": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:05:17.826073",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "2a84cadd0d9ff2053f1580121a31807d": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:05:17.826073"
+      },
+      "id": null
+    },
+    "d5e61b7b0c0220197574bf2e1dbcc4eb": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:05:49.189661",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "0ee604d0f46286698fccb99d11beba5c": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:05:49.189661",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "204021b2e7f59f848561e59cb25caad8": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:05:49.189661",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "0e926e3c627e0d592bcb230a105e50c1": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:05:49.189661"
+      },
+      "id": null
+    },
+    "39278e20b21d55e36963ee0ed52fb0ab": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:06:17.021024",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "4d00ca0d5c090cf173f505faf452407a": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:06:17.021024",
+        "category": "earnings"
+      },
+      "id": null
+    },
+    "ea6ee12f71dabf09812e39222ddbdbbc": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:06:17.021024",
+        "category": "market_data"
+      },
+      "id": null
+    },
+    "f38b5cf7b043b9e11d2e8b0b078bd082": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:06:17.021024"
+      },
+      "id": null
+    },
+    "f92882129f082fe8": {
+      "content": "TSMC (Taiwan Semiconductor) reported Q3 2024 earnings beating estimates by 4% with revenue of $23.5B, driven by strong AI chip demand and 3nm process technology adoption.",
+      "metadata": {
+        "source": "earnings",
+        "company": "TSMC",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-15",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:08:57.945419",
+        "category": "earnings"
+      },
+      "id": "f92882129f082fe8"
+    },
+    "9d12e016869d1e02": {
+      "content": "Samsung Electronics missed Q3 estimates by 2% due to weak memory chip pricing, reporting operating profit of $7.8B versus expected $8.0B.",
+      "metadata": {
+        "source": "earnings",
+        "company": "Samsung",
+        "sector": "technology",
+        "region": "asia",
+        "type": "earnings",
+        "date": "2024-10-12",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:08:57.945419",
+        "category": "earnings"
+      },
+      "id": "9d12e016869d1e02"
+    },
+    "eb0971385bf13bd8": {
+      "content": "Asia tech stocks showing mixed sentiment with Taiwan and South Korea leading gains while China tech faces regulatory headwinds. Rising US yields creating cautionary outlook.",
+      "metadata": {
+        "source": "market_analysis",
+        "sector": "technology",
+        "region": "asia",
+        "type": "news",
+        "date": "2024-10-20",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:08:57.945419",
+        "category": "market_data"
+      },
+      "id": "eb0971385bf13bd8"
+    },
+    "680b8d264aa71beb": {
+      "content": "Current Asia tech allocation recommendations suggest 20-25% portfolio weight with focus on AI beneficiaries like TSMC, SK Hynix, and selective China exposure.",
+      "metadata": {
+        "source": "research",
+        "sector": "technology",
+        "region": "asia",
+        "type": "research",
+        "date": "2024-10-18",
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T03:08:57.945419"
+      },
+      "id": "680b8d264aa71beb"
+    },
+    "36dea88de9ab2565": {
+      "content": "TSMC reported an unexpected increase in net income, beating estimates...",
+      "metadata": {
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T15:02:34.062987"
+      },
+      "id": "36dea88de9ab2565"
+    },
+    "a218759c4c848bd3": {
+      "content": "Samsung's profits fell short of expectations due to supply chain disruptions...",
+      "metadata": {
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T15:02:34.062987",
+        "category": "earnings"
+      },
+      "id": "a218759c4c848bd3"
+    },
+    "7f122d22b1a72e41": {
+      "content": "Apple's revenue surpassed predictions with strong sales in the Asia region...",
+      "metadata": {
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T15:02:34.062987",
+        "category": "earnings"
+      },
+      "id": "7f122d22b1a72e41"
+    },
+    "35d3b2f6066a096c": {
+      "content": "NVIDIA's earnings met expectations with steady growth in the tech sector...",
+      "metadata": {
+        "document_type": "financial",
+        "indexed_at": "2025-05-28T15:02:34.062987",
+        "category": "earnings"
+      },
+      "id": "35d3b2f6066a096c"
+    }
+  },
+  "id_to_idx": {
+    "07cd27514adfe5f51619b4be628c6443": 0,
+    "7cf2f0194f1b5de118df795ec12d57a1": 1,
+    "d300a08055ef8c3e4353e0c6a960ce40": 2,
+    "373c45d4970620a06188211c18e20313": 3,
+    "1b2ab9b5a49ddcc1c2b9ce73229acf2d": 4,
+    "daf548315716b38a4e9018be60acc21e": 5,
+    "f1746738b7819b0d128c2631c2170454": 6,
+    "6c5f3a32f92105d3d2f761ad49f4c9f3": 7,
+    "46214cec6b2f741095c10447f2fb7d21": 8,
+    "9035aa41e7c41cdc3031338158f7e55e": 9,
+    "af167de1543008a8326935a4edad2185": 10,
+    "43c70b95a6cb9cc8f111c92f20f5d29e": 11,
+    "8367a8715b2b76a2652d7f9cc997333b": 12,
+    "238951cf8ee47794a458855d90e379dd": 13,
+    "432b16af9cc3fedd009e48ebc7a7f61e": 14,
+    "06385c9ad1db9c418de58bd6dd74f6e8": 15,
+    "3af048dd0960c926245b6ecece377012": 16,
+    "17f9834079b686b299c5cbab150ef430": 17,
+    "b782403f7b91f563a905c942d2d9e0be": 18,
+    "9b20f5393ba4ea6d4a2c87f1f8418744": 19,
+    "45aa410e6d1e906a82fed333bdf077ee": 20,
+    "ac1943dce63161c5246e6317a9c40925": 21,
+    "6ccc786635bc6c13128916bd8c9d1e6c": 22,
+    "1462ba1dc940d544393083e50052780b": 23,
+    "bd971b455caf8bebd601a8320166f39a": 24,
+    "e841840d8d911b6e3eee823d0494477f": 25,
+    "56c89ccb7663ce0a4bf7a5185ca0eb12": 26,
+    "a1f214a4ebf1db3c8fe8494e2aef195c": 27,
+    "70803a8de0173afbfb108b2f397ca4be": 28,
+    "6fe89130ce922b16c60454f649557c13": 29,
+    "4307f588fa7b618440e742acc210d365": 30,
+    "59b104f4d2898acd0bc7bb55f41a6000": 31,
+    "fd11c326286bda20cc2a7c35c680016b": 32,
+    "a52b87af5887c0e7f738b7ae98a1f315": 33,
+    "7cbab6abdc9bb1489fa40750eec79886": 34,
+    "a559ac54640c49d9ca2ac3422ea8e0cb": 35,
+    "7fe7ac93be154aff007edafa9a724175": 36,
+    "72d055f4510dcc8a44b5db19f1bd6086": 37,
+    "c78af630426ed2fa770a3092fa5bce0e": 38,
+    "f2eae18559bda40019e3d62fdf605460": 39,
+    "547503b9b1a885e0976cc87e9274e7d5": 40,
+    "3db035415d6f0182719a951de957dfa7": 41,
+    "aa0fc64a0f7ec4217fdb5ab485128b71": 42,
+    "86d114cff3b185f08a34bf1eaac23553": 43,
+    "8f89f0fc6910d10c04dd04d1bb6b7602": 44,
+    "2009d331d0845fbf095aa5c49cbe3967": 45,
+    "d5db0d0054dfe0950e93c558417a032a": 46,
+    "ec684e76deb4f0dc7826b4f94f7da770": 47,
+    "98121626da3186be476d02d486abd9c5": 48,
+    "f8c80d95bc927e1fd0283942e60689f3": 49,
+    "43b5c89efce05d47efcf495923e64d6a": 50,
+    "def27489359e5ff6daa2e23614069b60": 51,
+    "2930cf3916795331115b19cd87bbfdc1": 52,
+    "7c1aa08e34a59e8095ae98f212ace261": 53,
+    "d763c404f3c370f635bf70b2bac3c761": 54,
+    "15ce64f2d58d435848fa1a33a1fab911": 55,
+    "eff8c000d86e7100193f86b237f17dfe": 56,
+    "c7e606f3e904900f46650b16ceab0e48": 57,
+    "d51d4298d4f26e5ccd8a4643845ec8ad": 58,
+    "7b93eb8bc02da8c99797d41576cea780": 59,
+    "afddef3ff3e016dfe5990e2406dec935": 60,
+    "7ece0267eb863187c1224dd8772cde16": 61,
+    "4a4b018f72e71c68ebc19aada1a6fcb1": 62,
+    "114e8098f77103d7c1b7f2a261427c4c": 63,
+    "796be172fcc4f5a5499728f37d17cb57": 64,
+    "26e6c036412204883f7cf23f00501952": 65,
+    "b3a42be28f55a44d162c005c214b19bc": 66,
+    "a240b910999e5cc8fa6cfabb00e951e6": 67,
+    "6edc4a4dc65ae9f929c18ece5e3f5937": 68,
+    "2741c3abfb9f64ca0667543033dfbe67": 69,
+    "113c45c5f33ec273b6cef657cc47bb5c": 70,
+    "e9fa97ffb3da979d4e567d0166fa415a": 71,
+    "963f87609cbda281c55488befa51ba83": 72,
+    "964ff844f7ca361295578b014d2d6aca": 73,
+    "2b3ac1dddfba8b54d2421ab4f41082ec": 74,
+    "25aca8162f5484b0a4c35686490b6523": 75,
+    "8bd6b7804c79bbe733409f611b14c446": 76,
+    "e23cf11494e63211f26f5317987c2b1c": 77,
+    "60b09fafff9773ac717ad9a3ea32ef21": 78,
+    "f91ce7f58e04f08b5801c3fc04c97e13": 79,
+    "2265f635dc0b8d92748cf4e18f73c17c": 80,
+    "ba2b711a3a7f4586d5df1782246221ee": 81,
+    "cd5f37115ebe6800689a1ee3e6f14cd4": 82,
+    "c1046334bfe5488d14281e66cec69754": 83,
+    "98b2ae546fca4d9935138d4c9ef8541e": 84,
+    "ddd803b81fbf8efe297e9f04d22666f5": 85,
+    "6a978b2960e1623f8f70f0f940dfd7e0": 86,
+    "6e7e041ed06a4353db53c150998be4c2": 87,
+    "d4fd30f9a5fba08a3e20bb157134e9dd": 88,
+    "491788ef5de6ea498869c9d20fe3a848": 89,
+    "5581dc2ab6d0c5ab79302ea68ee05e2b": 90,
+    "d6e866127f2d3295e903a2bb20b2cc73": 91,
+    "0276e6a561da5a96bc93f10d5e385833": 92,
+    "96df98ee3c818e44c43293769e13a21c": 93,
+    "b2c6687bc77867082a7fcbe02d8075a9": 94,
+    "377edcb0bf64b60ad9fcad8e722aca47": 95,
+    "d2b3efaac6f1102d4a046559b6b57958": 96,
+    "3ec34999bb452a9bb4b83b64a51a09c7": 97,
+    "1b1d1ce2fb13cedbb826e62d0a960cc4": 98,
+    "85a23257a2e153c8fe849015ef28d9f5": 99,
+    "fb031e4cd06f694d011ac2fd1b0c43a5": 100,
+    "206e15edb60ce4aeb725244d5620f99d": 101,
+    "a809be3e5d995b4c206be6d193ace5ac": 102,
+    "83131e38b963ae3f1d7dfa2999ebd9d2": 103,
+    "0f098276d246c3e9222e686401e5ccc8": 104,
+    "bcb4359a09234bb32a8c54544ccfa6fa": 105,
+    "0dd9d8753fecc499923a4c9f79b2ad30": 106,
+    "0fd4867158bf7b6b3fe46056ec6ed082": 107,
+    "a443b9492dcb7ba42c6ce673b96263ad": 108,
+    "527a4d70c4ac503492725a1b14c8b3e9": 109,
+    "4ba1cc95bc3bef2b66bf60309e3eaf69": 110,
+    "11669df78070d9c2116c3ae9ecea9a46": 111,
+    "1e6d66c7dd1cd875064e6e3bcf63a9c8": 112,
+    "d4a9ff02f18e3682185efab8ee9bd794": 113,
+    "5bab260fbcdc81e8b28bb42f7d4cd99d": 114,
+    "b5a4257935fd88686a8cc202f4923827": 115,
+    "b56a33d38e81c608150bbd2f9a98eda0": 116,
+    "028ceda6c691ee90d06581b4d1f31479": 117,
+    "490e1332e99b9c47338d42e13f314586": 118,
+    "34654dea0a402dbf3172419f8c1ecbc8": 119,
+    "795669371dec201c2e456d2bdd1ae4e6": 120,
+    "c217a2cee085651311bf1b3fba67270d": 121,
+    "29e7bdd0c4687fc9a14ceec43acd891c": 122,
+    "960a491a81c39fb73ada70642648656c": 123,
+    "9e1833aee4159fcd2e3fa2f3e5f75172": 124,
+    "0ab1dc548d37cfb144ec294290e13f98": 125,
+    "df0eae83859c9ebe52f4b7aa8acb0e45": 126,
+    "2a84cadd0d9ff2053f1580121a31807d": 127,
+    "d5e61b7b0c0220197574bf2e1dbcc4eb": 128,
+    "0ee604d0f46286698fccb99d11beba5c": 129,
+    "204021b2e7f59f848561e59cb25caad8": 130,
+    "0e926e3c627e0d592bcb230a105e50c1": 131,
+    "39278e20b21d55e36963ee0ed52fb0ab": 132,
+    "4d00ca0d5c090cf173f505faf452407a": 133,
+    "ea6ee12f71dabf09812e39222ddbdbbc": 134,
+    "f38b5cf7b043b9e11d2e8b0b078bd082": 135,
+    "f92882129f082fe8": 136,
+    "9d12e016869d1e02": 137,
+    "eb0971385bf13bd8": 138,
+    "680b8d264aa71beb": 139,
+    "36dea88de9ab2565": 140,
+    "a218759c4c848bd3": 141,
+    "7f122d22b1a72e41": 142,
+    "35d3b2f6066a096c": 143
+  },
+  "idx_to_id": {
+    "0": "07cd27514adfe5f51619b4be628c6443",
+    "1": "7cf2f0194f1b5de118df795ec12d57a1",
+    "2": "d300a08055ef8c3e4353e0c6a960ce40",
+    "3": "373c45d4970620a06188211c18e20313",
+    "4": "1b2ab9b5a49ddcc1c2b9ce73229acf2d",
+    "5": "daf548315716b38a4e9018be60acc21e",
+    "6": "f1746738b7819b0d128c2631c2170454",
+    "7": "6c5f3a32f92105d3d2f761ad49f4c9f3",
+    "8": "46214cec6b2f741095c10447f2fb7d21",
+    "9": "9035aa41e7c41cdc3031338158f7e55e",
+    "10": "af167de1543008a8326935a4edad2185",
+    "11": "43c70b95a6cb9cc8f111c92f20f5d29e",
+    "12": "8367a8715b2b76a2652d7f9cc997333b",
+    "13": "238951cf8ee47794a458855d90e379dd",
+    "14": "432b16af9cc3fedd009e48ebc7a7f61e",
+    "15": "06385c9ad1db9c418de58bd6dd74f6e8",
+    "16": "3af048dd0960c926245b6ecece377012",
+    "17": "17f9834079b686b299c5cbab150ef430",
+    "18": "b782403f7b91f563a905c942d2d9e0be",
+    "19": "9b20f5393ba4ea6d4a2c87f1f8418744",
+    "20": "45aa410e6d1e906a82fed333bdf077ee",
+    "21": "ac1943dce63161c5246e6317a9c40925",
+    "22": "6ccc786635bc6c13128916bd8c9d1e6c",
+    "23": "1462ba1dc940d544393083e50052780b",
+    "24": "bd971b455caf8bebd601a8320166f39a",
+    "25": "e841840d8d911b6e3eee823d0494477f",
+    "26": "56c89ccb7663ce0a4bf7a5185ca0eb12",
+    "27": "a1f214a4ebf1db3c8fe8494e2aef195c",
+    "28": "70803a8de0173afbfb108b2f397ca4be",
+    "29": "6fe89130ce922b16c60454f649557c13",
+    "30": "4307f588fa7b618440e742acc210d365",
+    "31": "59b104f4d2898acd0bc7bb55f41a6000",
+    "32": "fd11c326286bda20cc2a7c35c680016b",
+    "33": "a52b87af5887c0e7f738b7ae98a1f315",
+    "34": "7cbab6abdc9bb1489fa40750eec79886",
+    "35": "a559ac54640c49d9ca2ac3422ea8e0cb",
+    "36": "7fe7ac93be154aff007edafa9a724175",
+    "37": "72d055f4510dcc8a44b5db19f1bd6086",
+    "38": "c78af630426ed2fa770a3092fa5bce0e",
+    "39": "f2eae18559bda40019e3d62fdf605460",
+    "40": "547503b9b1a885e0976cc87e9274e7d5",
+    "41": "3db035415d6f0182719a951de957dfa7",
+    "42": "aa0fc64a0f7ec4217fdb5ab485128b71",
+    "43": "86d114cff3b185f08a34bf1eaac23553",
+    "44": "8f89f0fc6910d10c04dd04d1bb6b7602",
+    "45": "2009d331d0845fbf095aa5c49cbe3967",
+    "46": "d5db0d0054dfe0950e93c558417a032a",
+    "47": "ec684e76deb4f0dc7826b4f94f7da770",
+    "48": "98121626da3186be476d02d486abd9c5",
+    "49": "f8c80d95bc927e1fd0283942e60689f3",
+    "50": "43b5c89efce05d47efcf495923e64d6a",
+    "51": "def27489359e5ff6daa2e23614069b60",
+    "52": "2930cf3916795331115b19cd87bbfdc1",
+    "53": "7c1aa08e34a59e8095ae98f212ace261",
+    "54": "d763c404f3c370f635bf70b2bac3c761",
+    "55": "15ce64f2d58d435848fa1a33a1fab911",
+    "56": "eff8c000d86e7100193f86b237f17dfe",
+    "57": "c7e606f3e904900f46650b16ceab0e48",
+    "58": "d51d4298d4f26e5ccd8a4643845ec8ad",
+    "59": "7b93eb8bc02da8c99797d41576cea780",
+    "60": "afddef3ff3e016dfe5990e2406dec935",
+    "61": "7ece0267eb863187c1224dd8772cde16",
+    "62": "4a4b018f72e71c68ebc19aada1a6fcb1",
+    "63": "114e8098f77103d7c1b7f2a261427c4c",
+    "64": "796be172fcc4f5a5499728f37d17cb57",
+    "65": "26e6c036412204883f7cf23f00501952",
+    "66": "b3a42be28f55a44d162c005c214b19bc",
+    "67": "a240b910999e5cc8fa6cfabb00e951e6",
+    "68": "6edc4a4dc65ae9f929c18ece5e3f5937",
+    "69": "2741c3abfb9f64ca0667543033dfbe67",
+    "70": "113c45c5f33ec273b6cef657cc47bb5c",
+    "71": "e9fa97ffb3da979d4e567d0166fa415a",
+    "72": "963f87609cbda281c55488befa51ba83",
+    "73": "964ff844f7ca361295578b014d2d6aca",
+    "74": "2b3ac1dddfba8b54d2421ab4f41082ec",
+    "75": "25aca8162f5484b0a4c35686490b6523",
+    "76": "8bd6b7804c79bbe733409f611b14c446",
+    "77": "e23cf11494e63211f26f5317987c2b1c",
+    "78": "60b09fafff9773ac717ad9a3ea32ef21",
+    "79": "f91ce7f58e04f08b5801c3fc04c97e13",
+    "80": "2265f635dc0b8d92748cf4e18f73c17c",
+    "81": "ba2b711a3a7f4586d5df1782246221ee",
+    "82": "cd5f37115ebe6800689a1ee3e6f14cd4",
+    "83": "c1046334bfe5488d14281e66cec69754",
+    "84": "98b2ae546fca4d9935138d4c9ef8541e",
+    "85": "ddd803b81fbf8efe297e9f04d22666f5",
+    "86": "6a978b2960e1623f8f70f0f940dfd7e0",
+    "87": "6e7e041ed06a4353db53c150998be4c2",
+    "88": "d4fd30f9a5fba08a3e20bb157134e9dd",
+    "89": "491788ef5de6ea498869c9d20fe3a848",
+    "90": "5581dc2ab6d0c5ab79302ea68ee05e2b",
+    "91": "d6e866127f2d3295e903a2bb20b2cc73",
+    "92": "0276e6a561da5a96bc93f10d5e385833",
+    "93": "96df98ee3c818e44c43293769e13a21c",
+    "94": "b2c6687bc77867082a7fcbe02d8075a9",
+    "95": "377edcb0bf64b60ad9fcad8e722aca47",
+    "96": "d2b3efaac6f1102d4a046559b6b57958",
+    "97": "3ec34999bb452a9bb4b83b64a51a09c7",
+    "98": "1b1d1ce2fb13cedbb826e62d0a960cc4",
+    "99": "85a23257a2e153c8fe849015ef28d9f5",
+    "100": "fb031e4cd06f694d011ac2fd1b0c43a5",
+    "101": "206e15edb60ce4aeb725244d5620f99d",
+    "102": "a809be3e5d995b4c206be6d193ace5ac",
+    "103": "83131e38b963ae3f1d7dfa2999ebd9d2",
+    "104": "0f098276d246c3e9222e686401e5ccc8",
+    "105": "bcb4359a09234bb32a8c54544ccfa6fa",
+    "106": "0dd9d8753fecc499923a4c9f79b2ad30",
+    "107": "0fd4867158bf7b6b3fe46056ec6ed082",
+    "108": "a443b9492dcb7ba42c6ce673b96263ad",
+    "109": "527a4d70c4ac503492725a1b14c8b3e9",
+    "110": "4ba1cc95bc3bef2b66bf60309e3eaf69",
+    "111": "11669df78070d9c2116c3ae9ecea9a46",
+    "112": "1e6d66c7dd1cd875064e6e3bcf63a9c8",
+    "113": "d4a9ff02f18e3682185efab8ee9bd794",
+    "114": "5bab260fbcdc81e8b28bb42f7d4cd99d",
+    "115": "b5a4257935fd88686a8cc202f4923827",
+    "116": "b56a33d38e81c608150bbd2f9a98eda0",
+    "117": "028ceda6c691ee90d06581b4d1f31479",
+    "118": "490e1332e99b9c47338d42e13f314586",
+    "119": "34654dea0a402dbf3172419f8c1ecbc8",
+    "120": "795669371dec201c2e456d2bdd1ae4e6",
+    "121": "c217a2cee085651311bf1b3fba67270d",
+    "122": "29e7bdd0c4687fc9a14ceec43acd891c",
+    "123": "960a491a81c39fb73ada70642648656c",
+    "124": "9e1833aee4159fcd2e3fa2f3e5f75172",
+    "125": "0ab1dc548d37cfb144ec294290e13f98",
+    "126": "df0eae83859c9ebe52f4b7aa8acb0e45",
+    "127": "2a84cadd0d9ff2053f1580121a31807d",
+    "128": "d5e61b7b0c0220197574bf2e1dbcc4eb",
+    "129": "0ee604d0f46286698fccb99d11beba5c",
+    "130": "204021b2e7f59f848561e59cb25caad8",
+    "131": "0e926e3c627e0d592bcb230a105e50c1",
+    "132": "39278e20b21d55e36963ee0ed52fb0ab",
+    "133": "4d00ca0d5c090cf173f505faf452407a",
+    "134": "ea6ee12f71dabf09812e39222ddbdbbc",
+    "135": "f38b5cf7b043b9e11d2e8b0b078bd082",
+    "136": "f92882129f082fe8",
+    "137": "9d12e016869d1e02",
+    "138": "eb0971385bf13bd8",
+    "139": "680b8d264aa71beb",
+    "140": "36dea88de9ab2565",
+    "141": "a218759c4c848bd3",
+    "142": "7f122d22b1a72e41",
+    "143": "35d3b2f6066a096c"
+  },
+  "next_idx": 144,
+  "index_type": "flat",
+  "embedding_model_type": "sentence-transformer",
+  "embedding_model_name": "all-MiniLM-L6-v2",
+  "dimension": 384
+}
